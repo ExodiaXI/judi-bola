@@ -1,0 +1,14 @@
+{
+  "name": "judi-bola",
+  "theme": "Parlay bola",
+  "version": "0.0.0",
+  "description": "Toko4D adalah situs betting online Terpercaya dan terbesar di Indonesia": [
+    "judi bola",
+    "Toko4D"
+  ],
+  "repository": "https://github.com/ExodiaXI/judi-bola",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
